@@ -12,6 +12,7 @@ This repo helps me:
 - Build a personal library of reusable snippets 💾
 - Track my learning progress over time 📈
 - Keep my GitHub contribution graph green ✅
+- currently working on my portfolio as well as E-commerce website
 
 ---
 
